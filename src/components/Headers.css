@@ -1,0 +1,58 @@
+
+
+.header {
+    width: 1440px;
+    height: 84px;
+    background-color: #4a42f4;
+    display: flex;
+    justify-content: space-between;
+     align-items: center;
+     margin: 0 auto;
+  }
+
+
+  .logo {
+    width: 40px;
+    height: 40px;
+    margin-left: 48px;
+    background-color:#4a42f4;
+    border-radius: 25px;
+  }
+  .navbar {
+    margin-left: 600px;
+    display: flex;
+    gap: 120px;
+  }
+  .navbar a {
+    text-decoration: none;
+    color: white; 
+    font-size: 16px;
+    position: relative;
+  }
+  .login {
+    width: 82px;
+    height: 36px;
+    border-radius: 25px;
+    background-color:  #FFFFFF;
+    
+  }
+  .singup {
+    width: 82px;
+    height: 36px;
+    border-radius: 25px;
+    background-color: #34E0A1;
+    margin-right: 48px;
+    border: 0;
+  }
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  

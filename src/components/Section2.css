@@ -1,0 +1,86 @@
+.Section2 {
+  width: 1440px;
+  height: 1008px;
+  background-color: #ffce00;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.content-container {
+  width: 1344px;
+  height: 616px;
+  top: 118px;
+  left: 48px;
+}
+.text-content {
+  width: 1344px;
+  height: 616px;
+  top: 118px;
+  left: 48px;
+  gap: 0px;
+  opacity: 0px;
+}
+.Green {
+  width: 403px;
+  height: 128px;
+  top: -7px;
+  font-family: Roboto;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 64px;
+  margin-left: 30px;
+}
+.text {
+  width: 399px;
+  height: 84px;
+  top: 10px;
+  left: 6px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+}
+.Screen {
+  width: 193px;
+  height: 36px;
+  border-radius: 25px;
+  border: 2px 0px 0px 0px;
+  margin-left: 30px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: center;
+  margin-top: 150px;
+}
+.RedGirl {
+  width: 783px;
+  height: 516px;
+  display: flex;
+  margin-left: 470px;
+  margin-top: -610px;
+}
+.bottom {
+  width: 1344px;
+  height: 84px;
+  margin-top: 200px;
+  margin-left: 48px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 100px;
+}
+.bottom span {
+    display: inline-block;
+    width: 312px;
+    height: 84px;
+    overflow: hidden;
+    vertical-align: top;
+}
